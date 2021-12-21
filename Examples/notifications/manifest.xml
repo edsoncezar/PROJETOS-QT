@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<instructionals module="Notifications">
+ <examples>
+  <example imageUrl="qthelp://com.nokia.qt.ovinotifications.100/qdoc/images/qt-example.PNG" difficulty="" docUrl="qthelp://com.nokia.qt.ovinotifications.100/qdoc/notifications-cpp-example.html" projectPath="notificationexample/notificationexample.pro" name="Notifications Example">
+   <description><![CDATA[The Notifications example demonstrates push notificaitons.]]></description>
+   <tags>example,notifications,notificationexample,push,push notifications</tags>
+  </example>
+  <example imageUrl="qthelp://com.nokia.qt.ovinotificationsqml.100/qdoc/images/qml-example.PNG" difficulty="" docUrl="qthelp://com.nokia.qt.ovinotificationsqml.100/qdoc/notifications-qml-example.html" projectPath="notificationqmlexample/notificationqmlexample.pro" name="Notifications QML Example">
+   <description><![CDATA[The Notifications example demonstrates push notificaitons.]]></description>
+   <tags>notificationqmlexample,push qml,notifications qml push</tags>
+  </example>
+</examples>
+</instructionals>

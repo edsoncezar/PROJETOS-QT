@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img" >
+        <file alias="on" >connect.png</file>
+        <file alias="off" >disconnect.png</file>
+        <file alias="locked" >locked.png</file>
+        <file alias="unlocked" >unlocked.png</file>
+        <file alias="ligado" >green.png</file>
+        <file alias="desligado" >red.png</file>
+        <file alias="esdas" >esdas.png</file>
+        <file alias="exit" >exit.png</file>
+        <file alias="appicon" >cptgpsi.png</file>
+        <file alias="produto" >tabelaproduto.png</file>
+        <file alias="editar" >edit.png</file>
+        <file alias="eliminar" >delete.png</file>
+        <file alias="adicionar" >add.png</file>
+    </qresource>
+</RCC>
